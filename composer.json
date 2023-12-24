@@ -1,0 +1,15 @@
+{
+    "name": "dersonsena/yii2-tactician",
+    "description": "Virtual package for astrotechlabs/yii2-tactician",
+    "type": "metapackage",
+    "require": {
+        "astrotechlabs/yii2-tactician": "dev-master"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Astrotech Team",
+            "email": "devs@astrotech.solutions"
+        }
+    ]
+}
